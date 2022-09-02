@@ -1,2 +1,2 @@
-INSERT INTO deparment (id, name)
+INSERT INTO deparment (name)
 VALUES
